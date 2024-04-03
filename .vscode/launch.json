@@ -1,0 +1,22 @@
+{
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+        },
+        {
+            "name": "Exoplanet app",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app_interface/exoplanet_app.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+
+ESI:		0.86
+
+Period P:		9.8596 days
+
+Radius R: 		1.11 * R_Earth
+
+Semi-major axis a:	0.0496 AU
+
+Eccentricity e:	0.116
+
+Insolation Flux S:    1.38 * S_Earth
+
+Mass M: 		1.4 * M_Earth
+
+Temperature T:	213 to 301 Kelvin
+
+Radial Velocity Amplitude K: 1.39 m/s

@@ -1,0 +1,22 @@
+1. Using transit detection method (*), TOI-700 d (**) is the first Earth-size exoplanet that was discovered by NASA's Transiting Exoplanet Survey Satellite (TESS) mission in January 2020.
+
+2. It orbits within the habitable zone of the red dwarf TOI-700 (cooler than our Sun!), which is 101.4 light-years away from Earth in the constellation of Dorado (Southern Sky).
+
+3. The planet takes 37 Earth's days to orbit around its host star at a distance of 0.163 AU.
+
+4. Unlike many red dwarfs known for violent solar flares that could strip the planet's atmosphere, the star TOI-700 is relatively quiet, increasing the possibility of TOI-700d maintaining a stable atmosphere conducive to potential life
+
+5. There are three other exoplanets within this star system, which are TOI-700 b, TOI-700 c and TOI-700 e.
+
+6. Because of the close proximity to its star, TOI-700 d is thought to be tidally locked (***)
+
+(*) Transit method observes periodic dips in a star's brightness when a planet crosses in front of it from our perspective. This gives information about the planet's size and orbit.
+
+(**) Due to its mass and radius, TOI-700 d is suggested to have rocky composition.
+
+(***) tidal lock is when the planet always has one of its side facing its host star, while the other remains in darkness, resulting in extreme temperature differences and creating a "twilight zone" where conditions could be just right for life.
+
+Reference:
+Gilbert, Emily A., et al. "The First Habitable Zone Earth-sized Planet from TESS. I: Validation of the TOI-700 System." ArXiv, 2020,  https://doi.org/10.3847/1538-3881/aba4b2.
+
+Suissa, Gabrielle, et al. "The First Habitable Zone Earth-sized Planet from TESS. III: Climate States and Characterization Prospects for TOI-700 D." ArXiv, 2020,  https://doi.org/10.3847/1538-3881/aba4b4.

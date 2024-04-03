@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "exoplanet-python"
+version = "0.1.0"
+description = ""
+authors = ["Winnie"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+numpy = "^1.26.4"
+opencv-python = "^4.9.0.80"
+pyside6 = "^6.6.3.1"
+toml = "^0.10.2"
+black = "^24.3.0"
+isort = "^5.13.2"
+pydocstyle = "^6.3.0"
+pylint = "^3.1.0"
+mypy = "^1.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

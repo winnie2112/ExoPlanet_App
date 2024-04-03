@@ -1,0 +1,20 @@
+1. Earth-sized ROSS-128 b (*) was discovered through the radial velocity method (**) by ESO's High Accuracy Radial velocity Planet Searcher (HARPS) instrument in November 2017.
+
+2. It orbits in the inner edge of the habitable zone of the red dwarf ROSS 128 (cooler than our Sun!), which is approximately 11 light-years away from Earth in the constellation of Virgo.
+
+3. The planet completes its orbit around its star in just 9.9 Earth's days at a distance of just 0.0496 AU.
+
+4. Unlike many red dwarfs known for violent solar flares that could strip the planet's atmosphere, the star ROSS 128 is relatively quiet, increasing the possibility of ROSS-128b maintaining a stable atmosphere conducive to potential life.
+
+5. Ross 128 is moving towards our solar system and is expected to become our nearest stellar neighbour in 79 000 years.
+
+6. Because of the close proximity to its star, ROSS-128 b is thought to be tidally locked (**)
+
+(*) Due to its mass and radius, ROSS-128 b is suggested to have rocky composition.
+
+(**) radial velocity observes the spectrum of light from a star and looks for shifts caused by the gravitational influence of an orbiting planet. The gravitational pull between the two bodies causes the star to move in a small orbit around their common center of mass, which alters the star's velocity towards (light shifts to shorter wavelengths) or away (light shifts to longer wavelengths) from Earth.
+
+(***) tidal lock is when the planet always has one of its side facing its host star, while the other remains in darkness, resulting in extreme temperature differences and creating a "twilight zone" where conditions could be just right for life.
+
+Reference:
+Bonfils, Xavier, et al. "A Temperate Exo-Earth around a Quiet M Dwarf at 3.4 Parsecs." ArXiv, 2017,  https://doi.org/10.1051/0004-6361/201731973.

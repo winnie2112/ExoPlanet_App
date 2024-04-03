@@ -1,0 +1,16 @@
+1. Using transit detection method (*), super-Earth Kepler-62e with the size larger than Earth but smaller than gas giants was found by NASA's Kepler Space Telescope in 2013.
+
+2. It orbits within the habitable zone of its K2V-type star Kepler-62 (**), which is approximately 1200 light-years from Earth in the constellation Lyra.
+
+3. The planet completes its orbit around its star in 122 Earth's days at a distance of 0.427 AU.
+
+4. It is speculated that due to its size, Kepler-62e could be an ocean world with global oceans much deeper than on Earth. Being large in size suggests a significant gravitational pull that could retain a thick atmosphere and interesting marine life forms.
+
+5. Because Kepler-62e locates too far away from us, there has been no direct observation about its exact composition of the planet yet, whether to be rocky or gaseous.
+
+(*) Transit method observes periodic dips in a star's brightness when a planet crosses in front of it from our perspective. This gives information about the planet's size and orbit.
+
+(**) cooler and smaller than our Sun which is a M-type star.
+
+Reference:
+Kaltenegger, L., et al. "Water Planets in the Habitable Zone: Atmospheric Chemistry, Observable Features, and the Case of Kepler-62e and -62f." ArXiv, 2013,  https://doi.org/10.1088/2041-8205/775/2/L47.

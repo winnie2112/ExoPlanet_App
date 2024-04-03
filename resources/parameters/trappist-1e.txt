@@ -1,0 +1,28 @@
+
+ESI:		0.85
+
+Period P:		6.1 days
+
+Radius R: 		0.918 * R_Earth
+
+Semi-major axis a:	0.02817 AU
+
+Inclination i:	89.86 Degrees
+
+Eccentricity e:	< 0.085
+
+Insolation Flux S:    0.662 * S_Earth
+
+Mass M: 		0.62 * M_Earth
+
+Density p:            0.8 * p_Earth
+
+Temperature T:	251.3 Kelvin
+
+Transit depth sigma: 	0.519 %
+
+Argument of Periastron w: 108.37 Degrees
+
+Total Transit duration T_14: 0.0397 days
+
+Transit Impact parameter b: 0.12

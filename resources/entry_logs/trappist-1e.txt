@@ -1,0 +1,18 @@
+1. The solar system of ultracool dwarf star TRAPPIST-1 contains 7 potential Earth-sized exoplanets. TRAPPIST-1 e (*) was one of them and was found using transit detection method (**). It was discovered through observations from the TRAPPIST (Transiting Planets and Planetesimals Small Telescope) South telescope in 2017 and later observations by NASA's Spitzer Space Telescope.
+
+2. TRAPPIST-1e orbits within the star's habitable zone, which is about 39 light-years away from Earth in the constellation Aquarius.
+
+3. The planet completes its orbit around its star in just 6.1 Earth's days at a distance of just around 0.029 AU.
+
+4. TRAPPIST-1 e is likely tidally locked due to its close proximity to its star (***). Theoretical models suggest that if the planet has an atmosphere, it might have strong winds blowing from the day side to the night side, and cloud formations could be significantly influenced by the planet's rotation and atmospheric composition.
+
+5. The planets in the TRAPPIST-1 system have complex orbital resonance, where their orbits are mathematically related and can influence each other through gravitational forces. 
+
+(*) Due to its mass and radius, TRAPPIST-1 e is suggested to have rocky composition.
+
+(**) Transit method observes periodic dips in a star's brightness when a planet crosses in front of it from our perspective. This gives information about the planet's size and orbit.
+
+(***) tidal lock is when the planet always has one of its side facing its host star, while the other remains in darkness, resulting in extreme temperature differences and creating a "twilight zone" where conditions could be just right for life.
+
+Reference:
+Gillon, Michael, et al. "Seven Temperate Terrestrial Planets around the Nearby Ultracool Dwarf Star TRAPPIST-1." Nature, vol. 542, no. 7642, 2017, pp. 456-460,  https://doi.org/10.1038/nature21360.
