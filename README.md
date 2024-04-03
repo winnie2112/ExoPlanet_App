@@ -5,4 +5,4 @@ The interface is build with QML, while Python handles backend functions.
 QML is then connected to Python Backends.
 
 ## App Preview
-<img src='resources/pictues/preview_app.png' width='100%'/>
+<img src='resources/pictures/preview_app.png' width='100%'/>
