@@ -1,6 +1,5 @@
 import QtQuick
 import QtQuick.Controls
-import QtQuick.Dialogs
 import QtQuick.Layouts
 import QtQml.Models
 import QtQuick.Window
@@ -23,13 +22,6 @@ ApplicationWindow {
         function onUpdate_planet_image() {
             imagePlanets.reload();
         }
-    }
-
-    Dialog {
-        id: dialog
-        visible: false
-        standardButtons: Dialog.Ok
-        title: "Error"
     }
 
     GridLayout {

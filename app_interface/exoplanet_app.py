@@ -11,7 +11,7 @@ from PySide6.QtQml import QQmlApplicationEngine
 from PySide6.QtQuick import QQuickImageProvider
 
 from backend.exoplanet_backend import ExoPlanetBakend, SelectionData
-from resources.build_util import get_constant, resource_path
+from resources.build_util import get_constant
 from resources.constants import VERSION_ID
 
 CURRENT_DIRECTORY = Path(__file__).resolve().parent
@@ -148,8 +148,7 @@ class ExoPlanetApp(QGuiApplication):
         name = "Exoplanet App"
         version = get_constant(VERSION_ID, fallback="0.0.0")
         self.setApplicationDisplayName(name + " " + version)
-        self.setWindowIcon(QIcon("resources_ui_app/exoplanet.ico"))
-        self.setWindowIcon(QIcon(str(resource_path() / "exoplanet.ico")))
+        self.setWindowIcon(QIcon("resources/exoplanet.ico"))
 
         self.params_log = PlanetParamaters()
         self.planet_image = PlanetImage()
